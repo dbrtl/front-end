@@ -44,7 +44,5 @@ spec:
       protocol: TCP
   selector:
     name: front-end
-    app: front-end
-    deploymentconfig: front-end
 status:
   loadBalancer: {}
